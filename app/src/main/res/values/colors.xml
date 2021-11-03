@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#373f51</color>
+    <color name="colorPrimaryContrast">#434a5b</color>
+    <color name="colorPrimaryLight">#495060</color>
+    <color name="FontWhite">#eaf4ff</color>
+    <color name="FontPink">#da7d9e</color>
+    <color name="FontBlue">#66b4ba</color>
+    <color name="ButtonColor1">#01737e</color>
+    <color name="ButtonColor2">#00828c</color>
+    <color name="Outline1">#911d46</color>
+    <color name="Outline2">#495060</color>
+    <color name="Outline3">#14ebff</color>
+    <color name="Outline4">#14ebff</color>
+</resources>

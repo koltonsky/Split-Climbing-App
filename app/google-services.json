@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092312681109",
+    "firebase_url": "https://climbing-leauge.firebaseio.com",
+    "project_id": "climbing-leauge",
+    "storage_bucket": "climbing-leauge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092312681109:android:366da045f82e711963e99c",
+        "android_client_info": {
+          "package_name": "com.example.climbing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092312681109-6oo21qlrnhr7ven5836060mrlmocejru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.climbing",
+            "certificate_hash": "0b2f66647353c40e4bcf49e1a00086ca222c2e13"
+          }
+        },
+        {
+          "client_id": "1092312681109-qq7tpjhei5875np3ikdhj5svfctephp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgnaU15Kaa5AmZYqT9q7aEKF2fpnhDFos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092312681109-qq7tpjhei5875np3ikdhj5svfctephp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

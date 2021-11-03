@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.climbing">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SignUpActivity"/>
+        <activity android:name=".ForgetPass"/>
+        <activity android:name=".HomeScreen"/>
+        <activity android:name=".ClimbList"/>
+        <activity android:name=".ClimbOneScreen"/>
+        <activity android:name=".ClimbTwoScreen"/>
+        <activity android:name=".ClimbThreeScreen"/>
+        <activity android:name=".ClimbFourScreen"/>
+        <activity android:name=".ClimbFiveScreen"/>
+        <activity android:name=".ClimbSixScreen"/>
+        <activity android:name=".ClimbSevenScreen"/>
+        <activity android:name=".ClimbEightScreen"/>
+        <activity android:name=".ClimbNineScreen"/>
+        <activity android:name=".ClimbTenScreen"/>
+        <activity android:name=".ClimbElevenScreen"/>
+        <activity android:name=".ClimbTwelveScreen"/>
+        <activity android:name=".ClimbThirteenScreen"/>
+        <activity android:name=".ClimbFourteenScreen"/>
+        <activity android:name=".ClimbFifteenScreen"/>
+        <activity android:name=".ClimbSixteenScreen"/>
+        <activity android:name=".ClimbSeventeenScreen"/>
+        <activity android:name=".ClimbEighteenScreen"/>
+        <activity android:name=".ClimbNineteenScreen"/>
+        <activity android:name=".ClimbTwentyScreen"/>
+        <activity android:name=".ClimbTwentyOneScreen"/>
+        <activity android:name=".ClimbTwentyTwoScreen"/>
+        <activity android:name=".ClimbTwentyThreeScreen"/>
+        <activity android:name=".ClimbTwentyFourScreen"/>
+        <activity android:name=".ClimbTwentyFiveScreen"/>
+        <activity android:name=".ClimbTwentySixScreen"/>
+        <activity android:name=".ClimbTwentySevenScreen"/>
+        <activity android:name=".ClimbTwentyEightScreen"/>
+        <activity android:name=".ClimbTwentyNineScreen"/>
+        <activity android:name=".ClimbThirtyScreen"/>
+        <activity android:name=".ClimbingGenerator"/>
+    </application>
+
+</manifest>
